@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683254278147",
+    "project_id": "wilsonapitask",
+    "storage_bucket": "wilsonapitask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683254278147:android:dbf269b082ff733189c636",
+        "android_client_info": {
+          "package_name": "com.example.wilson_api_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683254278147-27athjf4qi0t56mdqup9bcdp50mma5ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9JElX8alNDP75vrnn_qPeEppzbFGQy80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683254278147-27athjf4qi0t56mdqup9bcdp50mma5ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
